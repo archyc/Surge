@@ -4,7 +4,6 @@
 
 [Script]
 飞客茶馆_签到 = type=cron,cronexp=10 0 0 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js
-飞客茶馆_获取cookie = type=http-request,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.cookie.js,pattern=^https:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=getdata&.*
 
 [MITM]
 hostname = %APPEND% www.flyertea.com
