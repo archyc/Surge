@@ -1,3 +1,6 @@
+#!name=Get_Cookie
+#!desc=获取Cookie
+
 [MITM]
 hostname = %APPEND% www.flyertea.com
 
