@@ -3,4 +3,4 @@
 
 [Script]
 
-event network-changed script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/RunningMode/running-mode.js
+event network-changed script-path=https://raw.githubusercontent.com/archyc/Surge/main/JS/running-mode.js
