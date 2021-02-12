@@ -1,6 +1,5 @@
 #!name=天气预报
 #!desc=每日天气预报
-#!system=ios
 
 [Script]
 天气预报 = type=cron,cronexp=0 0 8-20/6 * * *,script-path=https://raw.githubusercontent.com/archyc/Surge/main/JS/weather_dark.js
