@@ -1,0 +1,6 @@
+#!name=飞客茶馆
+#!desc=飞客茶馆每日签到
+#!system=ios
+
+[Script]
+天气预报 = type=cron,cronexp=0 0 8-20/6 * * *,script-path=https://raw.githubusercontent.com/archyc/Surge/main/JS/weather_dark.js
