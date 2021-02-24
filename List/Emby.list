@@ -1,4 +1,4 @@
 // >Nexitally Emby
 USER-AGENT,Infuse*
 USER-AGENT,Emby*
-DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-KEYWORD,emby
