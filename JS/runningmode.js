@@ -8,7 +8,7 @@ if (wifiChanged()) {
   $surge.setOutboundMode(mode);
   $notification.post(
     'Surge',
-    `Wi-Fi changed to ${$network.wifi.ssid || 'cellular'}`,
+    `Wi-Fi Changed To ${$network.wifi.ssid || 'Cellular'}`,
     `Use ${mode} Mode`
   );
 }
