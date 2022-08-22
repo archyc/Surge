@@ -1,0 +1,5 @@
+#!name=Surge自动模式
+#!desc=根据当前网络自动切换模式
+
+[Script]
+script1 = type=event,event-name=network-changed,script-path=https://raw.githubusercontent.com/archyc/Surge/main/JS/runningmode.js
