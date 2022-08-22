@@ -3,13 +3,13 @@ const CURRENT_WIFI_SSID_KEY = 'current_wifi_ssid';
 
 if (wifiChanged()) {
   const mode = WIFI_DONT_NEED_PROXYS.includes($network.wifi.ssid)
-    ? 'direct'
-    : 'rule';
+    ? 'Direct'
+    : 'Rule';
   $surge.setOutboundMode(mode);
   $notification.post(
     'Surge',
     `Wi-Fi changed to ${$network.wifi.ssid || 'cellular'}`,
-    `use ${mode} mode`
+    `Use ${mode} Mode`
   );
 }
 
