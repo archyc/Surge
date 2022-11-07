@@ -1,1 +1,24 @@
-123
+# NAME: US Service
+DOMAIN-SUFFIX,squarecdn.com
+DOMAIN-SUFFIX,fillr.com
+DOMAIN,cash.me
+DOMAIN-KEYWORD,stripe
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-KEYWORD,ellis
+DOMAIN-KEYWORD,cashapp
+DOMAIN-KEYWORD,capitalone
+DOMAIN-SUFFIX,venmo.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,mparticle.com
+DOMAIN-SUFFIX,vaicore.site
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,kochava.com
